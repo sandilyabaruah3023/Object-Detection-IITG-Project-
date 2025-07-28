@@ -1,5 +1,5 @@
 # Object-Detection-IITG-Project-
-This is a project question given by IIT Guwahati for my 7th Sem Summer Internship
+This is a project question given by IIT Guwahati for my 7th Sem Summer Internship.
 The question was:
 
 Object Detection: Develop a Python-based program that takes input as image
